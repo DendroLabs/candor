@@ -18,6 +18,7 @@ def get_all_companies() -> list[CompanyProfile]:
     return [
         amazon(),
         apple(),
+        cisco(),
         costco(),
         google(),
         jpmorgan(),
@@ -128,6 +129,122 @@ def amazon() -> CompanyProfile:
                 profit_orientation=30,
                 context="Substantial investment. Programs include cloud computing, "
                 "machine learning, and non-Amazon career paths.",
+            ),
+        ],
+    )
+
+
+def cisco() -> CompanyProfile:
+    return CompanyProfile(
+        name="Cisco",
+        ticker="CSCO",
+        sector="Technology / Networking",
+        period="2022–2025",
+        decisions=[
+            Decision(
+                year=2024,
+                category=C.WORKFORCE,
+                title="~4,000 layoffs — 'rebalancing' to AI and security",
+                description="Cut approximately 5% of workforce in February 2024, "
+                "framed as a strategic pivot toward AI and cybersecurity growth areas.",
+                profit_orientation=75,
+                context="Profitable company cutting during a 'pivot' narrative. "
+                "The rebalancing framing implies the people being cut were in "
+                "the wrong part of the business — not that the business made "
+                "the wrong bets.",
+            ),
+            Decision(
+                year=2024,
+                category=C.WORKFORCE,
+                title="~5,600 additional layoffs — second round in same year",
+                description="Cut another ~7% of workforce in August 2024, just six "
+                "months after the first round. Again framed as pivoting to AI.",
+                profit_orientation=82,
+                context="Two major rounds in one year totaling ~12% of the company. "
+                "The second round signals the first wasn't enough — or that "
+                "ongoing cuts are the actual strategy, not a one-time realignment.",
+            ),
+            Decision(
+                year=2023,
+                category=C.WORKFORCE,
+                title="~4,000 layoffs in November",
+                description="Approximately 4,000 positions eliminated in late 2023, "
+                "continuing a pattern of annual restructuring cycles.",
+                profit_orientation=72,
+                context="Cisco has done layoffs nearly every year for the past "
+                "several years. At some point 'restructuring' becomes the "
+                "permanent state, not a transition to something better.",
+            ),
+            Decision(
+                year=2023,
+                category=C.COMPENSATION,
+                title="Competitive tech compensation and benefits",
+                description="Maintains competitive pay, equity grants, ESPP, and "
+                "benefits package across engineering and corporate roles.",
+                profit_orientation=35,
+                context="Good compensation for those who remain. Standard for "
+                "large tech companies competing for talent.",
+            ),
+            Decision(
+                year=2024,
+                category=C.CONDITIONS,
+                title="Increased return-to-office expectations",
+                description="Despite building and selling Webex as a remote collaboration "
+                "platform, increased expectations for in-office presence.",
+                profit_orientation=58,
+                context="The irony of a company that sells remote work tools "
+                "requiring its own employees to come back to the office. "
+                "Suggests the product pitch and the internal belief don't match.",
+            ),
+            Decision(
+                year=2024,
+                category=C.COMMUNICATION,
+                title="Perpetual 'pivot' and 'rebalancing' framing",
+                description="Every layoff round framed as a strategic pivot to growth "
+                "areas — AI, security, subscription revenue. The language of "
+                "transformation applied to what is, by pattern, annual cost cutting.",
+                profit_orientation=75,
+                context="When you 'rebalance' every year, you're not rebalancing — "
+                "you're running a permanent cost reduction program and calling "
+                "it strategy. The employees being cut aren't in the wrong area. "
+                "They're in the area that ran out of political cover.",
+            ),
+            Decision(
+                year=2024,
+                category=C.COMMUNICATION,
+                title="Celebrating workforce metrics while cutting workforce",
+                description="Highlighting record certification numbers, engineering "
+                "achievements, and talent quality in the same period as laying "
+                "off thousands of those same engineers.",
+                profit_orientation=70,
+                context="You cannot simultaneously be proud of your certified "
+                "engineers and be firing them. If the certifications matter, "
+                "protect the people who hold them. If the people are expendable, "
+                "stop celebrating the certifications. Pick one.",
+            ),
+            Decision(
+                year=2023,
+                category=C.INVESTMENT,
+                title="Cisco Networking Academy",
+                description="Free global education program that has trained millions "
+                "of students in networking, security, and IT fundamentals since 1997.",
+                profit_orientation=20,
+                context="One of the largest corporate education programs in the world. "
+                "Genuinely impactful. Creates a pipeline of Cisco-trained talent — "
+                "which also serves the business, but the scale of impact is real.",
+            ),
+            Decision(
+                year=2024,
+                category=C.INVESTMENT,
+                title="AI reskilling alongside layoffs",
+                description="Internal programs to retrain employees for AI and security "
+                "roles, running simultaneously with layoffs that cut people "
+                "in the areas being deprioritized.",
+                profit_orientation=60,
+                context="Reskilling is offered, but the timeline doesn't match the "
+                "layoff timeline. If you're cutting people this quarter and "
+                "reskilling people over 12 months, the reskilling is for the "
+                "survivors, not the affected.",
             ),
         ],
     )

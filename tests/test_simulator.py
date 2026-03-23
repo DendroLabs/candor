@@ -149,7 +149,7 @@ class TestCompanyProfiles:
 
     def test_all_companies_load(self):
         companies = get_all_companies()
-        assert len(companies) == 10
+        assert len(companies) == 11
 
     def test_all_companies_have_decisions(self):
         for company in get_all_companies():
