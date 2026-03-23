@@ -51,6 +51,14 @@ PEOPLE ◄───────────────────────�
 
 **Position X does not exist.** It is not selectable. Nobody is 50-50. When you model a layoff and the NPV is slightly positive, a 50-50 system would oscillate. A real decision goes one way. The compass forces you to say which way.
 
+### Choosing Your Position
+
+Every position on the compass is valid. There is nothing inherently wrong with Position 5 and nothing inherently superior about Position 1. A company fighting for survival may need to lean hard toward profit to keep the doors open — and that's an honest choice. A company posting record earnings that still chooses Position 4 — that's also an honest choice. The compass doesn't judge. It clarifies.
+
+What matters is that you're honest with yourself about what your position means. Position 4 means that when a profitable layoff hits your desk, the system will model it with a shorter horizon, calculate legal-minimum severance, and document alternatives without deeply exploring them. Position 2 means the system will stretch the analysis over a decade, calculate generous severance, and exhaust every alternative before the layoff reaches a human decision-maker. Both will call it a layoff. Neither will call it rightsizing.
+
+The range stops at 67/33 in either direction. There are no 100% positions — and intentionally so. A 100% profit setting would disable every mitigation, skip every human cost calculation, and make the Decision Impact Protocol meaningless. A 100% people setting would block any decision with negative employee impact, including ones necessary for the company to survive. Both extremes would make the system useless for actual governance. The compass shifts the *weight* of each concern, not the *existence* of either one. Even at Position 5, the system still quantifies who gets hurt. Even at Position 1, the system still models the financial return. That's the minimum bar for decisions that deserve to be called decisions.
+
 The compass affects everything:
 
 - **NPV horizons**: People-leaning uses 5-10 year models. Profit-leaning uses 1-3 year models. Same math, different assumptions. The assumptions are the values.
