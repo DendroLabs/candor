@@ -10,6 +10,7 @@ individual number. The value is in the pattern, not any single data point.
 """
 
 from .models import CompanyProfile, Decision, DecisionCategory
+from .companies_extended import get_extended_companies
 
 C = DecisionCategory
 
@@ -27,7 +28,7 @@ def get_all_companies() -> list[CompanyProfile]:
         netflix(),
         tesla(),
         walmart(),
-    ]
+    ] + get_extended_companies()
 
 
 def get_company(name: str) -> CompanyProfile | None:

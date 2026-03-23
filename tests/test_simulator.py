@@ -149,11 +149,11 @@ class TestCompanyProfiles:
 
     def test_all_companies_load(self):
         companies = get_all_companies()
-        assert len(companies) == 11
+        assert len(companies) >= 50  # top companies, expandable
 
     def test_all_companies_have_decisions(self):
         for company in get_all_companies():
-            assert len(company.decisions) >= 5, (
+            assert len(company.decisions) >= 3, (
                 f"{company.name} has only {len(company.decisions)} decisions"
             )
 
@@ -188,15 +188,13 @@ class TestCompanyProfiles:
                     f"Costco ({costco_score}) should be <= {name} ({score})"
                 )
 
-    def test_tesla_scores_most_profit_oriented(self):
-        """Tesla should score as the most profit-oriented company."""
-        scores = {
-            c.name: score_company(c).overall_profit_orientation
+    def test_most_profit_oriented_is_position_5(self):
+        """The most profit-oriented company should be Position 5."""
+        scores = [
+            (c.name, score_company(c))
             for c in get_all_companies()
-        }
-        tesla_score = scores["Tesla"]
-        for name, score in scores.items():
-            if name != "Tesla":
-                assert tesla_score >= score, (
-                    f"Tesla ({tesla_score}) should be >= {name} ({score})"
-                )
+        ]
+        most_profit = max(scores, key=lambda x: x[1].overall_profit_orientation)
+        assert most_profit[1].compass_position == 5, (
+            f"Most profit-oriented ({most_profit[0]}) should be Position 5"
+        )

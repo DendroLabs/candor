@@ -5,6 +5,7 @@ Usage:
     python -m src.simulator amazon           # Deep dive on Amazon
     python -m src.simulator amazon costco    # Compare specific companies
     python -m src.simulator --list           # List available companies
+    python -m src.simulator --report         # Full report with analysis
 """
 
 import argparse
@@ -13,6 +14,7 @@ import sys
 from .companies import get_all_companies, get_company
 from .engine import score_company
 from .display import render_single, render_comparison
+from .report import generate_report
 
 
 def main():
@@ -35,8 +37,17 @@ def main():
         action="store_true",
         help="Show detailed decision breakdown (default for single company).",
     )
+    parser.add_argument(
+        "--report",
+        action="store_true",
+        help="Generate full report with methodology, rankings, and analysis.",
+    )
 
     args = parser.parse_args()
+
+    if args.report:
+        print(generate_report())
+        return
 
     if args.list:
         print("\nAvailable companies:")

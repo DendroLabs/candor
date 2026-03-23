@@ -1,0 +1,179 @@
+==============================================================================
+  CANDOR SIMULATOR
+  The Revealed Compass of Corporate America
+==============================================================================
+
+  Companies analyzed: 79
+
+  METHODOLOGY
+  --------------------------------------------------------------------------
+  Each company is scored on publicly documented decisions across five
+  weighted categories:
+
+    Workforce decisions (layoffs, hiring, restructuring)    30%
+    Compensation & benefits                                25%
+    Working conditions & safety                            20%
+    Communication & transparency                           15%
+    Investment in people (training, development)            10%
+
+  Scores range from 0% (maximally people-oriented) to 100% (maximally
+  profit-oriented). Mapped to compass positions:
+    0-29%:  Position 1 — People Primary
+    30-44%: Position 2 — People Leaning
+    45-55%: Dead Zone — pick a side
+    56-70%: Position 4 — Profit Leaning
+    71-100%: Position 5 — Profit Primary
+
+  All scores are based on publicly documented decisions — SEC filings,
+  press releases, OSHA data, NLRB rulings, investigative reporting,
+  and company statements. Scores are interpretive. Reasonable people
+  will disagree on individual numbers. The pattern is the point.
+
+  DISTRIBUTION
+  --------------------------------------------------------------------------
+  Position 1 (People Primary)        7 ( 8.9%)  ████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  Position 2 (People Leaning)       11 (13.9%)  ██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  Dead Zone                         19 (24.1%)  ████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  Position 4 (Profit Leaning)       30 (38.0%)  ██████████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+  Position 5 (Profit Primary)       12 (15.2%)  ███████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+  KEY STATISTICS
+  --------------------------------------------------------------------------
+  Average profit orientation:  53.4%
+  Median profit orientation:   55.1%
+  Most people-oriented:        Costco (COST) — 15.2%
+  Most profit-oriented:        Broadcom (AVGO) — 83.5%
+
+  SECTOR ANALYSIS
+  --------------------------------------------------------------------------
+  Retail                                    39.1%  (2 companies)  Pos 2
+  Conglomerate                              43.1%  (1 companies)  Pos 2
+  Financial Services                        46.6%  (11 companies)  Dead Zone
+  Technology                                53.1%  (21 companies)  Dead Zone
+  Healthcare                                54.5%  (11 companies)  Dead Zone
+  Consumer                                  55.2%  (8 companies)  Pos 4
+  Industrial                                55.6%  (11 companies)  Pos 4
+  Consumer Goods                            57.1%  (7 companies)  Pos 4
+  Telecom                                   57.3%  (1 companies)  Pos 4
+  Energy                                    58.7%  (3 companies)  Pos 4
+  Automotive                                60.6%  (3 companies)  Pos 4
+
+  RANKED LIST — MOST PEOPLE-ORIENTED TO MOST PROFIT-ORIENTED
+  --------------------------------------------------------------------------
+  #    Company                         Score  Position               Sector
+  --------------------------------------------------------------------------
+  1    Costco (COST)                   15.2%  █░░░░░░░░░░░  Pos 1 (People Primary)
+  2    AMD (AMD)                       22.5%  ██░░░░░░░░░░  Pos 1 (People Primary)
+  3    NVIDIA (NVDA)                   22.8%  ██░░░░░░░░░░  Pos 1 (People Primary)
+  4    ServiceNow (NOW)                25.9%  ███░░░░░░░░░  Pos 1 (People Primary)
+  5    Eli Lilly (LLY)                 27.1%  ███░░░░░░░░░  Pos 1 (People Primary)
+  6    Northrop Grumman (NOC)          27.5%  ███░░░░░░░░░  Pos 1 (People Primary)
+  7    Visa (V)                        28.8%  ███░░░░░░░░░  Pos 1 (People Primary)
+  8    Lockheed Martin (LMT)           29.1%  ███░░░░░░░░░  Pos 2 (People Leaning)
+  9    Mastercard (MA)                 30.1%  ███░░░░░░░░░  Pos 2 (People Leaning)
+  10   American Express (AXP)          32.5%  ███░░░░░░░░░  Pos 2 (People Leaning)
+  11   Home Depot (HD)                 34.5%  ████░░░░░░░░  Pos 2 (People Leaning)
+  12   Progressive (PGR)               35.0%  ████░░░░░░░░  Pos 2 (People Leaning)
+  13   Adobe (ADBE)                    36.1%  ████░░░░░░░░  Pos 2 (People Leaning)
+  14   TJX Companies (TJX)             40.0%  ████░░░░░░░░  Pos 2 (People Leaning)
+  15   Merck (MRK)                     42.7%  █████░░░░░░░  Pos 2 (People Leaning)
+  16   Berkshire Hathaway (BRK)        43.1%  █████░░░░░░░  Pos 2 (People Leaning)
+  17   Microsoft (MSFT)                43.2%  █████░░░░░░░  Pos 2 (People Leaning)
+  18   Caterpillar (CAT)               43.9%  █████░░░░░░░  Pos 2 (People Leaning)
+  19   Colgate-Palmolive (CL)          44.3%  █████░░░░░░░  (Dead Zone — pick a side)
+  20   S&P Global (SPGI)               45.3%  █████░░░░░░░  (Dead Zone — pick a side)
+  21   Medtronic (MDT)                 45.5%  █████░░░░░░░  (Dead Zone — pick a side)
+  22   Target (TGT)                    45.5%  █████░░░░░░░  (Dead Zone — pick a side)
+  23   Bank of America (BAC)           46.3%  █████░░░░░░░  (Dead Zone — pick a side)
+  24   RTX (Raytheon) (RTX)            48.7%  █████░░░░░░░  (Dead Zone — pick a side)
+  25   Apple (AAPL)                    49.0%  █████░░░░░░░  (Dead Zone — pick a side)
+  26   BlackRock (BLK)                 50.2%  ██████░░░░░░  (Dead Zone — pick a side)
+  27   Ford (F)                        50.4%  ██████░░░░░░  (Dead Zone — pick a side)
+  28   Procter & Gamble (PG)           50.7%  ██████░░░░░░  (Dead Zone — pick a side)
+  29   Netflix (NFLX)                  51.6%  ██████░░░░░░  (Dead Zone — pick a side)
+  30   Qualcomm (QCOM)                 51.7%  ██████░░░░░░  (Dead Zone — pick a side)
+  31   Morgan Stanley (MS)             52.7%  ██████░░░░░░  (Dead Zone — pick a side)
+  32   Honeywell (HON)                 53.2%  ██████░░░░░░  (Dead Zone — pick a side)
+  33   Amgen (AMGN)                    53.6%  ██████░░░░░░  (Dead Zone — pick a side)
+  34   General Motors (GM)             54.3%  ██████░░░░░░  (Dead Zone — pick a side)
+  35   Salesforce (CRM)                54.4%  ██████░░░░░░  (Dead Zone — pick a side)
+  36   Philip Morris (PM)              54.5%  ██████░░░░░░  (Dead Zone — pick a side)
+  37   ConocoPhillips (COP)            54.7%  ██████░░░░░░  (Dead Zone — pick a side)
+  38   Google (GOOGL)                  55.0%  ██████░░░░░░  Pos 4 (Profit Leaning)
+  39   JPMorgan Chase (JPM)            55.1%  ██████░░░░░░  Pos 4 (Profit Leaning)
+  40   Elevance Health (ELV)           55.1%  ██████░░░░░░  Pos 4 (Profit Leaning)
+  41   Kroger (KR)                     55.1%  ██████░░░░░░  Pos 4 (Profit Leaning)
+  42   Pfizer (PFE)                    55.2%  ██████░░░░░░  Pos 4 (Profit Leaning)
+  43   AbbVie (ABBV)                   55.8%  ██████░░░░░░  Pos 4 (Profit Leaning)
+  44   Intuit (INTU)                   56.1%  ██████░░░░░░  Pos 4 (Profit Leaning)
+  45   Chevron (CVX)                   56.8%  ██████░░░░░░  Pos 4 (Profit Leaning)
+  46   Coca-Cola (KO)                  56.9%  ██████░░░░░░  Pos 4 (Profit Leaning)
+  47   T-Mobile (TMUS)                 57.3%  ██████░░░░░░  Pos 4 (Profit Leaning)
+  48   Amazon (AMZN)                   57.5%  ██████░░░░░░  Pos 4 (Profit Leaning)
+  49   Johnson & Johnson (JNJ)         57.6%  ██████░░░░░░  Pos 4 (Profit Leaning)
+  50   Deere & Company (DE)            57.7%  ██████░░░░░░  Pos 4 (Profit Leaning)
+  51   Cisco (CSCO)                    58.1%  ██████░░░░░░  Pos 4 (Profit Leaning)
+  52   Oracle (ORCL)                   58.4%  ███████░░░░░  Pos 4 (Profit Leaning)
+  53   PayPal (PYPL)                   58.6%  ███████░░░░░  Pos 4 (Profit Leaning)
+  54   Meta (META)                     59.5%  ███████░░░░░  Pos 4 (Profit Leaning)
+  55   Accenture (ACN)                 59.6%  ███████░░░░░  Pos 4 (Profit Leaning)
+  56   Starbucks (SBUX)                60.0%  ███████░░░░░  Pos 4 (Profit Leaning)
+  57   Mondelez (MDLZ)                 60.2%  ███████░░░░░  Pos 4 (Profit Leaning)
+  58   General Electric (GE)           61.5%  ███████░░░░░  Pos 4 (Profit Leaning)
+  59   PepsiCo (PEP)                   61.6%  ███████░░░░░  Pos 4 (Profit Leaning)
+  60   Cigna (CI)                      62.4%  ███████░░░░░  Pos 4 (Profit Leaning)
+  61   Walmart (WMT)                   63.1%  ███████░░░░░  Pos 4 (Profit Leaning)
+  62   Nike (NKE)                      63.9%  ███████░░░░░  Pos 4 (Profit Leaning)
+  63   ExxonMobil (XOM)                64.7%  ███████░░░░░  Pos 4 (Profit Leaning)
+  64   IBM (IBM)                       65.7%  ███████░░░░░  Pos 4 (Profit Leaning)
+  65   Goldman Sachs (GS)              65.7%  ███████░░░░░  Pos 4 (Profit Leaning)
+  66   FedEx (FDX)                     68.5%  ████████░░░░  Pos 4 (Profit Leaning)
+  67   UnitedHealth Group (UNH)        68.6%  ████████░░░░  Pos 4 (Profit Leaning)
+  68   Intel (INTC)                    70.0%  ████████░░░░  Pos 5 (Profit Primary)
+  69   3M (MMM)                        70.2%  ████████░░░░  Pos 5 (Profit Primary)
+  70   Wells Fargo (WFC)               70.6%  ████████░░░░  Pos 5 (Profit Primary)
+  71   Disney (DIS)                    71.0%  ████████░░░░  Pos 5 (Profit Primary)
+  72   Kraft Heinz (KHC)               71.2%  ████████░░░░  Pos 5 (Profit Primary)
+  73   McDonald's (MCD)                71.8%  ████████░░░░  Pos 5 (Profit Primary)
+  74   Union Pacific (UNP)             72.7%  ████████░░░░  Pos 5 (Profit Primary)
+  75   Uber (UBER)                     75.4%  █████████░░░  Pos 5 (Profit Primary)
+  76   CVS Health (CVS)                75.8%  █████████░░░  Pos 5 (Profit Primary)
+  77   Tesla (TSLA)                    77.2%  █████████░░░  Pos 5 (Profit Primary)
+  78   Boeing (BA)                     78.7%  █████████░░░  Pos 5 (Profit Primary)
+  79   Broadcom (AVGO)                 83.5%  ██████████░░  Pos 5 (Profit Primary)
+
+  OBSERVATIONS
+  --------------------------------------------------------------------------
+
+  1. Corporate America leans profit. The average score across
+     79 companies is 53.4% profit-oriented.
+
+  2. 42 companies land at Position 4 or 5 (profit-leaning/primary).
+     18 land at Position 1 or 2 (people-leaning/primary).
+     The compass tilts one direction.
+
+  3. No sector averages below Position 2. People-first orientation
+     is the exception at every level of the economy, not the rule.
+
+  4. The most people-oriented companies (Costco, AMD, NVIDIA, ServiceNow, Eli Lilly, Northrop Grumman, Visa, Lockheed Martin) share a common
+     trait: they're growing. It's easy to invest in people when
+     revenue is rising. The real test comes when it stops.
+
+  5. Boeing scores highest in conditions (92%) — not because
+     it's the worst employer, but because people died. Most companies
+     extract value from employees quietly. Boeing's extraction became
+     visible because gravity doesn't accept euphemisms.
+
+  6. Every company on this list has said 'our people are our greatest
+     asset.' The average score is 53.4% profit-oriented. The
+     revealed compass shows what the stated compass won't: most
+     companies have already picked a side. They just haven't said it
+     out loud.
+
+  --------------------------------------------------------------------------
+  Scores are interpretive. Reasonable people will disagree on
+  individual numbers. The pattern is the point.
+
+  Generated by Candor — candor, noun: the quality of being open
+  and honest in expression; frankness.
+==============================================================================
