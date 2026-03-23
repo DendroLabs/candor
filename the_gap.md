@@ -1,6 +1,6 @@
 # The Gap
 
-*Written during a live company meeting. March 2026.*
+*Taken from an actual meeting.*
 
 ---
 
