@@ -1,0 +1,56 @@
+# Candor — Default Configuration
+# ===================================================
+#
+# THE COMPASS MUST BE SET BEFORE ANYTHING ELSE.
+# This is the first decision. Everything follows from it.
+#
+# Position 1: People Primary  (67% people / 33% profit)
+# Position 2: People Leaning  (58% people / 42% profit)
+# Position 3: DOES NOT EXIST  (the dead zone — pick a side)
+# Position 4: Profit Leaning  (58% profit / 42% people)
+# Position 5: Profit Primary  (67% profit / 33% people)
+
+compass:
+  # SET THIS. There is no default. The system will not start without it.
+  # position: 2
+  authorized_by: ""        # who authorized this setting
+  reason: ""               # why this position was chosen
+  board_resolution_ref: "" # optional reference to board resolution
+
+# Agent configuration
+agents:
+  model: "claude-sonnet-4-6"  # default model for all agents
+
+  orchestrator:
+    enabled: true
+    model: "claude-opus-4-6"  # orchestrator gets the most capable model
+
+  financial:
+    enabled: true
+
+  people:
+    enabled: true
+
+  market:
+    enabled: true
+
+  legal:
+    enabled: true
+
+  technology:
+    enabled: true
+
+  operations:
+    enabled: true  # set to false for pure software companies
+
+# Data paths
+data:
+  memory_path: "./data/memory"
+  compass_path: "./data/compass.json"
+  decisions_path: "./data/decisions"
+
+# Human escalation
+escalation:
+  # How Tier 3 decisions are surfaced to human decision-makers
+  method: "console"  # console | slack | email | dashboard
+  # In production, this would be a webhook or API endpoint

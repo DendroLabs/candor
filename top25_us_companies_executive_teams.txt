@@ -1,0 +1,834 @@
+================================================================================
+TOP 25 US COMPANIES BY MARKET CAPITALIZATION (EARLY 2026)
+COMPLETE EXECUTIVE LEADERSHIP TEAMS
+================================================================================
+Research compiled: March 2026
+Note: Reflects leadership as of early 2026 including recent transitions.
+
+================================================================================
+1. APPLE INC.
+   Industry: Technology / Consumer Electronics
+   Approximate Market Cap: ~$3.7 Trillion
+================================================================================
+
+CORPORATE OFFICERS:
+- Tim Cook -- Chief Executive Officer
+- Kevan Parekh -- Senior Vice President and Chief Financial Officer (effective Jan 1, 2025)
+- Sabih Khan -- Chief Operating Officer
+- Jennifer Newstead -- Senior Vice President and General Counsel (effective March 1, 2026; joined from Meta)
+- Katherine L. Adams -- Senior Vice President, Government Affairs (transitioned from General Counsel role)
+
+SENIOR VICE PRESIDENTS:
+- Craig Federighi -- SVP, Software Engineering
+- Eddy Cue -- SVP, Services and Health
+- Greg "Joz" Joswiak -- SVP, Worldwide Marketing
+- Deirdre O'Brien -- SVP, Retail + People (combines retail operations and HR)
+- Johny Srouji -- SVP, Hardware Technologies
+- John Ternus -- SVP, Hardware Engineering
+
+VICE PRESIDENTS:
+- Molly Anderson -- VP, Industrial Design
+- Mike Fenger -- VP, Worldwide Sales
+- Steve Lemay -- VP, Human Interface Design
+- Luca Maestri -- VP, Corporate Services (former CFO)
+- Isabel Ge Mahe -- VP and Managing Director of Greater China
+- Tor Myhren -- VP, Marketing Communications
+- Adrian Perica -- VP, Corporate Development
+- Kristin Huguet Quayle -- VP, Worldwide Communications
+- Amar Subramanya -- VP, AI (reporting to Federighi)
+
+NOTABLE:
+- Phil Schiller -- Apple Fellow
+
+UNIQUE/NON-STANDARD ROLES:
+- "Retail + People" combines traditional retail operations with HR under Deirdre O'Brien
+- "Services and Health" combines services ecosystem with health initiatives under Eddy Cue
+- "Government Affairs" as a standalone SVP role separated from General Counsel
+- VP of AI as a newly created role
+
+
+================================================================================
+2. MICROSOFT CORPORATION
+   Industry: Technology / Software & Cloud Computing
+   Approximate Market Cap: ~$3.2 Trillion
+================================================================================
+
+CORPORATE OFFICERS:
+- Satya Nadella -- Chairman and Chief Executive Officer
+- Amy Hood -- Executive Vice President and Chief Financial Officer
+- Carolina Dybeck Happe -- Executive Vice President and Chief Operating Officer
+- Brad Smith -- Vice Chair and President
+- Kevin Scott -- Chief Technology Officer
+- Takeshi Numoto -- Executive Vice President and Chief Marketing Officer
+- Amy Coleman -- Executive Vice President, Chief People Officer
+
+EXECUTIVE VICE PRESIDENTS / DIVISION LEADERS:
+- Judson Althoff -- CEO, Microsoft Commercial Business
+- Mustafa Suleyman -- CEO, Microsoft AI
+- Phil Spencer -- CEO, Microsoft Gaming
+- Scott Guthrie -- EVP, Cloud + AI
+- Charlie Bell -- EVP, Microsoft Security
+- Kathleen Hogan -- EVP, Strategy and Transformation
+- Jay Parikh -- CoreAI and Engineering Manager
+- Jason Zander -- EVP, Microsoft Discovery & Quantum
+- Ryan Roslansky -- CEO, LinkedIn and EVP of Office
+- Jeff Teper -- EVP (recently promoted)
+- Pavan Davuluri -- EVP (recently promoted, direct report to Nadella)
+- Perry Clarke -- EVP (recently promoted, direct report to Nadella)
+- Charles Lamanna -- EVP (recently promoted, direct report to Nadella)
+
+PRESIDENTS:
+- Sumit Chauhan -- President (recently promoted)
+- Kirk Koenigsbauer -- President (recently promoted)
+
+UNIQUE/NON-STANDARD ROLES:
+- Multiple internal "CEO" titles (Microsoft Commercial, Microsoft AI, Microsoft Gaming, LinkedIn)
+- "Vice Chair and President" as a combined governance/operational role for Brad Smith
+- "CEO, Microsoft AI" dedicated AI division leader (Mustafa Suleyman)
+- "CoreAI and Engineering Manager" as a unique title
+
+
+================================================================================
+3. NVIDIA CORPORATION
+   Industry: Technology / Semiconductors & AI
+   Approximate Market Cap: ~$3.0 Trillion
+================================================================================
+
+CORPORATE OFFICERS:
+- Jensen Huang -- Founder, President and Chief Executive Officer
+- Colette Kress -- Executive Vice President and Chief Financial Officer
+- Tim Teter -- Executive Vice President, General Counsel and Secretary
+- Michael Kagan -- Chief Technology Officer (joined via Mellanox acquisition, 2020)
+- Alison Wagonfeld -- Chief Marketing Officer (first-ever CMO; joined Feb 2026 from Google Cloud)
+
+EXECUTIVE VICE PRESIDENTS:
+- Jay Puri -- EVP, Worldwide Field Operations
+- Debora Shoquist -- EVP, Operations
+
+SENIOR VICE PRESIDENT:
+- Kristin Major -- SVP, Human Resources
+
+OTHER NOTABLE:
+- Chris A. Malachowsky -- Co-Founder and NVIDIA Fellow
+
+UNIQUE/NON-STANDARD ROLES:
+- "NVIDIA Fellow" title for co-founder Chris Malachowsky
+- First-ever CMO position created in 2026 (company operated without one for decades)
+- Notably lean executive structure despite massive market cap
+- CEO had 55 direct reports (reduced to 36 in late 2025)
+
+
+================================================================================
+4. AMAZON.COM, INC.
+   Industry: Technology / E-Commerce & Cloud Computing
+   Approximate Market Cap: ~$2.4 Trillion
+================================================================================
+
+CORPORATE OFFICERS:
+- Andrew R. Jassy -- President and Chief Executive Officer
+- Brian T. Olsavsky -- Senior Vice President and Chief Financial Officer
+- David Zapolsky -- Chief Global Affairs & Legal Officer (SVP)
+- Beth Galetti -- SVP, People eXperience and Technology (HR function)
+- Steve Schmidt -- Chief Security Officer
+
+S-TEAM (SENIOR LEADERSHIP TEAM) MEMBERS:
+- Doug Herrington -- CEO, Worldwide Amazon Stores
+- Matt Garman -- CEO, Amazon Web Services
+- Aicha Evans -- CEO, Zoox (autonomous vehicles)
+- Udit Madan -- SVP, Worldwide Operations
+- Christine Beauchamp -- SVP, North America Stores
+- Russell Grandinetti -- SVP, International Stores
+- Paul Kotas -- SVP, Advertising, IMDb, and Grand Challenge
+- Mike Hopkins -- SVP, Amazon Video and Studios
+- Panos Panay -- SVP, Devices & Services
+- Peter DeSantis -- SVP, Foundational AI Models, Custom Silicon, Quantum Computing
+- James Hamilton -- SVP and Distinguished Engineer
+- Drew Herdener -- SVP, Communications & Corporate Responsibility
+- Neil Lindsay -- SVP, Amazon Health Services
+- Peter Krawiec -- SVP, Worldwide Corporate and Business Development
+- Amit Agarwal -- SVP, Emerging Markets and Selling Partner Services
+- Dave Treadwell -- SVP, eCommerce Foundation
+- John Felton -- SVP, AWS CFO
+- Colleen Aubrey -- SVP, AWS Applied AI Solutions
+- David Brown -- VP, Compute Services
+- Swami Sivasubramanian -- VP, Agentic AI
+- Candi Castleberry -- VP, Amazon eXperience and Upskilling
+- Steve Boom -- VP, Audio, Twitch, and Games
+
+UNIQUE/NON-STANDARD ROLES:
+- "S-team" structure with 27+ senior leaders rather than traditional C-suite
+- Multiple internal "CEO" designations (Worldwide Stores, AWS, Zoox)
+- "Chief Global Affairs & Legal Officer" combines legal, policy, and global affairs
+- "People eXperience and Technology" replaces traditional CHRO/HR title
+- "VP, Agentic AI" -- cutting-edge AI-specific role
+- "Amazon eXperience and Upskilling" -- unique people/culture role
+- "SVP and Distinguished Engineer" -- technical individual contributor at executive level
+- "Grand Challenge" in Paul Kotas's title
+
+
+================================================================================
+5. ALPHABET INC. / GOOGLE
+   Industry: Technology / Internet Services & Advertising
+   Approximate Market Cap: ~$2.3 Trillion
+================================================================================
+
+CORPORATE OFFICERS:
+- Sundar Pichai -- Chief Executive Officer, Alphabet & Google
+- Anat Ashkenazi -- Chief Financial Officer, Alphabet (joined 2024 from Eli Lilly)
+- Ruth Porat -- President and Chief Investment Officer, Alphabet
+- Kent Walker -- SVP, Global Affairs (President, Global Affairs & Chief Legal Officer)
+- Halimah DeLaine Prado -- General Counsel, Google
+
+KEY EXECUTIVES:
+- Lorraine Twohill -- Chief Marketing Officer
+- Fiona Cicconi -- Chief People Officer
+- Thomas Kurian -- CEO, Google Cloud
+- Prabhakar Raghavan -- SVP (Google Knowledge & Information)
+
+UNIQUE/NON-STANDARD ROLES:
+- "President and Chief Investment Officer" -- Ruth Porat's unique dual role overseeing "Other Bets" portfolio
+- Separate General Counsel (Google level) and Chief Legal Officer (Alphabet level)
+- "CEO, Google Cloud" as internal CEO designation
+- "Chief People Officer" rather than CHRO
+
+
+================================================================================
+6. META PLATFORMS, INC.
+   Industry: Technology / Social Media & Metaverse
+   Approximate Market Cap: ~$1.7 Trillion
+================================================================================
+
+CORPORATE OFFICERS:
+- Mark Zuckerberg -- Founder, Chairman and Chief Executive Officer
+- Javier Olivan -- Chief Operating Officer
+- Susan Li -- Chief Financial Officer
+- Andrew "Boz" Bosworth -- Chief Technology Officer and Head of Reality Labs
+- Chris Cox -- Chief Product Officer
+- Jennifer Newstead -- Chief Legal Officer (departing for Apple, March 2026)
+- John Hegeman -- Chief Revenue Officer (since December 2024)
+- Joel Kaplan -- Head of Global Policy (since January 2025)
+
+OTHER SENIOR LEADERS:
+- Clara Shih -- Head of Business AI
+
+UNIQUE/NON-STANDARD ROLES:
+- "Chief Technology Officer and Head of Reality Labs" -- combines CTO with metaverse/VR division
+- "Chief Revenue Officer" as a distinct role from COO
+- "Head of Business AI" -- dedicated generative AI business role
+- "Head of Global Policy" -- dedicated policy role separate from legal
+
+
+================================================================================
+7. BERKSHIRE HATHAWAY INC.
+   Industry: Conglomerates / Diversified Holdings & Insurance
+   Approximate Market Cap: ~$1.1 Trillion
+================================================================================
+
+CORPORATE OFFICERS:
+- Warren Buffett -- Chairman of the Board
+- Greg Abel -- Chief Executive Officer and President (effective January 1, 2026)
+- Charles C. Chang -- Senior Vice President and Chief Financial Officer (effective June 1, 2026; succeeding Marc Hamburg)
+- Michael J. O'Sullivan -- Senior Vice President and General Counsel (effective January 1, 2026; joined from Snap Inc.)
+- Ajit Jain -- Director and Vice Chairman of Insurance Operations
+
+OTHER OFFICERS:
+- Jennifer Tselentis -- Comptroller
+- Jo Rieck -- Vice President of Taxes
+- Daniel J. Jaksich -- Vice President, Principal Accounting Officer
+
+SUBSIDIARY LEADERSHIP:
+- Nancy L. Pierce -- CEO, GEICO
+
+UNIQUE/NON-STANDARD ROLES:
+- Extremely lean corporate structure for a trillion-dollar company
+- "Vice Chairman of Insurance Operations" -- Ajit Jain's specialized insurance-focused role
+- In-house General Counsel is a NEW position (previously outsourced) -- part of post-Buffett formalization
+- No CTO, CMO, CHRO, or CIO at the parent holding company level
+- "Comptroller" as a formal officer title
+
+
+================================================================================
+8. TESLA, INC.
+   Industry: Automotive / Electric Vehicles & Energy
+   Approximate Market Cap: ~$1.0 Trillion
+================================================================================
+
+CORPORATE OFFICERS:
+- Elon Musk -- Chief Executive Officer (and "Technoking of Tesla")
+- Vaibhav Taneja -- Chief Financial Officer and Chief Accounting Officer
+- Brandon Ehrhart -- General Counsel and Corporate Secretary (since 2023, from Dish Network)
+
+KEY EXECUTIVES:
+- Tom Zhu -- SVP, responsible for global automotive business
+- Lars Moravy -- VP, Vehicle Engineering
+
+NOTABLE BOARD MEMBER:
+- Robyn Denholm -- Chairman of the Board
+
+UNIQUE/NON-STANDARD ROLES:
+- "Technoking of Tesla" -- Elon Musk's self-given additional title
+- Extremely thin public C-suite for a trillion-dollar company
+- No publicly named CTO, CMO, CHRO, or CIO
+- CFO and Chief Accounting Officer combined in one person
+- High executive turnover historically (six General Counsels in five years)
+
+
+================================================================================
+9. BROADCOM INC.
+   Industry: Technology / Semiconductors & Infrastructure Software
+   Approximate Market Cap: ~$950 Billion
+================================================================================
+
+CORPORATE OFFICERS:
+- Hock E. Tan -- President, Chief Executive Officer and Director
+- Kirsten Spears -- Chief Financial Officer and Chief Accounting Officer
+- Mark D. Brazeal -- Chief Legal and Corporate Affairs Officer (since Dec 2021)
+- Alan Davidson -- Chief Information Officer
+
+DIVISION LEADERS:
+- Charlie Kawwas -- President, Semiconductor Solutions Group
+- Mark Gonikberg -- SVP and GM, Wireless and Broadband Communications Division
+
+BOARD:
+- Henry Samueli -- Chairman of the Board
+
+UNIQUE/NON-STANDARD ROLES:
+- "Chief Legal and Corporate Affairs Officer" combines legal with corporate affairs
+- CFO and Chief Accounting Officer combined in one role
+- No publicly named CTO, CMO, or CHRO
+
+
+================================================================================
+10. ELI LILLY AND COMPANY
+    Industry: Healthcare / Pharmaceuticals
+    Approximate Market Cap: ~$900 Billion
+================================================================================
+
+EXECUTIVE COMMITTEE:
+- David A. Ricks -- Chairman and Chief Executive Officer
+- Lucas Montarce -- Executive Vice President and Chief Financial Officer
+- Daniel M. Skovronsky, M.D. -- EVP, Chief Scientific and Medical Officer, President of Lilly Research Laboratories
+- Anat Hakim -- EVP, General Counsel and Secretary
+- Diogo Rau -- EVP, Chief Information and Digital Officer
+- Eric Dozier -- EVP, Chief People Officer (CHRO equivalent)
+- Edgardo Hernandez -- EVP, President of Manufacturing Operations
+- Jacob Van Naarden -- EVP, President of Lilly Oncology (and Corporate Business Development)
+- Jennifer Taubert -- EVP, Worldwide Chairman of Innovative Medicine (Executive Committee member)
+- Carole Ho, M.D. -- EVP, President of Lilly Neuroscience (joined Nov 2025)
+- Adrienne Brown -- EVP, President of Lilly Immunology (promoted Nov 2025)
+- Alonzo Weems -- SVP, Chief Ethics and Compliance Officer
+
+UNIQUE/NON-STANDARD ROLES:
+- "Chief Information and Digital Officer" -- combines IT and digital transformation
+- "Chief Scientific and Medical Officer" -- combines R&D science with medical affairs
+- "Chief Ethics and Compliance Officer" as a standalone executive committee role
+- "Worldwide Chairman, Innovative Medicine" -- unique pharma-specific title
+- "Chief People Officer" used instead of CHRO
+- Presidents of therapeutic areas (Neuroscience, Oncology, Immunology) on Executive Committee
+
+
+================================================================================
+11. JPMORGAN CHASE & CO.
+    Industry: Financial Services / Banking
+    Approximate Market Cap: ~$750 Billion
+================================================================================
+
+OPERATING COMMITTEE:
+- Jamie Dimon -- Chairman and Chief Executive Officer
+- Jennifer Piepszak -- Chief Operating Officer (effective 2025; succeeded Daniel Pinto)
+- Jeremy Barnum -- Chief Financial Officer
+- Ashley Bacon -- Chief Risk Officer
+- Lori Beer -- Global Chief Information Officer
+- Stacey Friedman -- General Counsel
+- Robin Leopold -- Head of Human Resources
+- Teresa Heitsenrether -- Chief Data & Analytics Officer
+- Marianne Lake -- CEO, Consumer & Community Banking
+- Mary Callahan Erdoes -- CEO, Asset & Wealth Management
+- Douglas B. Petno -- Co-CEO, Commercial & Investment Bank
+- Troy Rohrbaugh -- Co-CEO, Commercial & Investment Bank
+- Tim Berry -- Global Head of Corporate Responsibility and Chairman, Mid-Atlantic Region
+
+OTHER CORPORATE OFFICERS:
+- Reid Broda -- Secretary
+- Lou Rauchenberger -- Chief Audit Executive
+- Joseph M. Evangelisti -- Corporate Communications
+- Mikael Grubb -- Investor Relations
+- Elena Korablina -- Controller
+
+UNIQUE/NON-STANDARD ROLES:
+- "Chief Data & Analytics Officer" -- dedicated data strategy executive on Operating Committee
+- "Global Head of Corporate Responsibility and Chairman, Mid-Atlantic Region" -- unique dual role
+- "Head of Human Resources" rather than CHRO
+- "Chief Audit Executive" as a corporate officer
+- Multiple internal "CEO" titles for business lines
+- "Co-CEO" structure for Commercial & Investment Bank
+
+
+================================================================================
+12. WALMART INC.
+    Industry: Retail / Discount Stores & E-Commerce
+    Approximate Market Cap: ~$700 Billion
+================================================================================
+
+CORPORATE OFFICERS (effective February 1, 2026):
+- John Furner -- President and Chief Executive Officer (succeeding Doug McMillon)
+- Doug McMillon -- Executive Chairman of the Board
+- John David Rainey -- Executive Vice President and Chief Financial Officer
+- Suresh Kumar -- EVP, Global Chief Technology Officer and Chief Development Officer
+- Donna Morris -- EVP and Chief People Officer
+
+DIVISION LEADERS (effective February 1, 2026):
+- David Guggina -- President and CEO, Walmart U.S.
+- Chris Nicholas -- President and CEO, Walmart International
+- Latriece Watkins -- President and CEO, Sam's Club U.S.
+- Seth Dallaire -- EVP and Chief Growth Officer (overseeing Walmart Connect, Walmart+, Vizio, Marketplace)
+
+UNIQUE/NON-STANDARD ROLES:
+- "Chief Growth Officer" -- oversees advertising platform (Walmart Connect), membership (Walmart+), data ventures, and marketplace
+- "Global Chief Technology Officer and Chief Development Officer" combined role
+- "Chief People Officer" used instead of CHRO
+- Internal "CEO" designations for U.S., International, and Sam's Club divisions
+
+
+================================================================================
+13. VISA INC.
+    Industry: Financial Services / Payments Technology
+    Approximate Market Cap: ~$650 Billion
+================================================================================
+
+CORPORATE OFFICERS:
+- Ryan McInerney -- Chief Executive Officer and Director
+- Chris Suh -- Chief Financial Officer
+- Rajat Taneja -- President, Technology (CTO equivalent)
+- Kelly Mahon Tullier -- Vice Chair, Chief People and Corporate Affairs Officer, and Corporate Secretary
+- Julie Rottenberg -- Executive Vice President and General Counsel
+- Paul D. Fabara -- Chief Risk and Client Services Officer
+- Jack Forestell -- Chief Product and Strategy Officer
+- Frank Cooper III -- Chief Marketing Officer
+
+REGIONAL LEADERSHIP:
+- Antony Cahill -- Regional President and CEO, European Operations
+
+UNIQUE/NON-STANDARD ROLES:
+- "President, Technology" instead of CTO
+- "Vice Chair, Chief People and Corporate Affairs Officer, and Corporate Secretary" -- multi-function executive role
+- "Chief Risk and Client Services Officer" -- combines risk with client services
+- "Chief Product and Strategy Officer" -- combines product and strategy
+
+
+================================================================================
+14. UNITEDHEALTH GROUP
+    Industry: Healthcare / Health Insurance & Services
+    Approximate Market Cap: ~$550 Billion
+================================================================================
+
+CORPORATE OFFICERS:
+- Stephen J. Hemsley -- Executive Chairman and Chief Executive Officer (since 2025)
+- Wayne S. DeVeydt -- Chief Financial Officer (effective Sep 2025)
+- Marianne D. Short -- Chief Legal Officer and Executive Vice President
+- Erin McSweeney -- Executive Vice President and Chief People Officer
+- Tyson Owen -- Chief Technology Officer (since Jan 2024)
+- Terry Clark -- EVP, Chief Marketing and Customer Officer
+- Heather Cianfrocco -- EVP, Governance, Compliance and Information Security
+
+DIVISION LEADERSHIP:
+- Dr. Patrick Conway, M.D. -- CEO, Optum (promoted 2025)
+- Andrew P. Witty -- Former CEO (role transition)
+
+OTHER NOTABLE EXECUTIVES:
+- Joy Fitzgerald -- Chief Diversity, Equity, and Inclusion Officer
+- Vivian Hunt -- Chief Innovation Officer
+
+UNIQUE/NON-STANDARD ROLES:
+- "EVP, Governance, Compliance and Information Security" -- unique combined oversight role
+- "Chief Marketing and Customer Officer" -- combines marketing with customer experience
+- "Chief Innovation Officer" as a dedicated role
+- "Chief Diversity, Equity, and Inclusion Officer" as a standalone C-suite position
+
+
+================================================================================
+15. MASTERCARD INCORPORATED
+    Industry: Financial Services / Payments Technology
+    Approximate Market Cap: ~$500 Billion
+================================================================================
+
+CORPORATE OFFICERS:
+- Michael Miebach -- Chief Executive Officer and President
+- Sachin Mehra -- Chief Financial Officer
+- Edward McLaughlin -- Chief Technology Officer and President
+- Rich Verma -- Chief Administrative Officer
+- Tiffany Hall -- General Counsel (promoted after Rob Beard's departure)
+- Susan Muigai -- Chief People Officer (since April 2025)
+- Jorn Lambert -- Chief Product Officer
+- Raj Seshadri -- Chief Commercial Payments Officer
+- Kelly Devine -- President, Mastercard Europe (since Sep 2025)
+
+UNIQUE/NON-STANDARD ROLES:
+- "Chief Administrative Officer" -- oversees law, government affairs, policy, franchise, corporate security, and community/belonging
+- "Chief Technology Officer and President" -- dual title combining CTO and President
+- "Chief Commercial Payments Officer" -- payments-industry-specific executive role
+- "Chief People Officer" rather than CHRO
+
+
+================================================================================
+16. JOHNSON & JOHNSON
+    Industry: Healthcare / Pharmaceuticals & Medical Devices
+    Approximate Market Cap: ~$480 Billion
+================================================================================
+
+EXECUTIVE COMMITTEE:
+- Joaquin Duato -- Chairman and Chief Executive Officer
+- Joseph J. Wolk -- Executive Vice President and Chief Financial Officer
+- Elizabeth (Liz) Forminard -- EVP, Chief Legal Officer (oversees ESG strategy, privacy, corporate secretary)
+- Vanessa Broadhurst -- EVP, Global Corporate Affairs (marketing, communications, design, philanthropy)
+- Kristen Mulholland -- EVP, Chief Human Resources Officer
+- James (Jim) Swanson -- EVP, Chief Information Officer
+- Kathryn E. Wengel -- EVP, Chief Technical Operations & Risk Officer
+- Jennifer Taubert -- EVP, Worldwide Chairman of Innovative Medicine
+- Tim Schmid -- EVP, Worldwide Chairman of MedTech
+
+UNIQUE/NON-STANDARD ROLES:
+- "Chief Technical Operations & Risk Officer" -- combines manufacturing/supply chain with enterprise risk
+- "Worldwide Chairman" titles for Innovative Medicine and MedTech business segments
+- "Global Corporate Affairs" encompasses marketing, communications, design, and philanthropy
+- "Chief Legal Officer" also oversees ESG strategy and privacy
+
+
+================================================================================
+17. COSTCO WHOLESALE CORPORATION
+    Industry: Retail / Warehouse Club
+    Approximate Market Cap: ~$450 Billion
+================================================================================
+
+CORPORATE OFFICERS:
+- Ron M. Vachris -- President, Chief Executive Officer and Director (since Jan 2024)
+- Gary Millerchip -- Chief Financial Officer (joined 2024 from Kroger)
+- John Sullivan -- Executive Vice President, General Counsel and Corporate Secretary
+- Torsten Lubach -- Chief Technology Officer
+- Javier Polit -- Chief Information Officer
+
+OPERATIONAL LEADERSHIP:
+- Russ Miller -- Senior EVP, COO of Warehouse Operations (U.S. and Mexico)
+- Pierre Riel -- EVP, COO of International Division
+- Teresa Jones -- EVP, COO of Global Depots and Traffic
+- Joseph P. Portera -- EVP, COO of Eastern & Canadian Divisions and Chief Diversity Officer
+- Patrick Callans -- EVP, Administration (includes HR and Risk Management)
+
+UNIQUE/NON-STANDARD ROLES:
+- Multiple COO titles for different operational divisions (unusual structure)
+- Both CTO and CIO as separate roles
+- "COO of Eastern & Canadian Divisions and Chief Diversity Officer" -- unique combined operational/DEI role
+- No formally titled CMO or CHRO at the corporate level
+- "EVP, Administration" encompasses traditional HR and risk management
+
+
+================================================================================
+18. THE PROCTER & GAMBLE COMPANY
+    Industry: Consumer Goods / Household & Personal Care
+    Approximate Market Cap: ~$420 Billion
+================================================================================
+
+CORPORATE OFFICERS:
+- Shailesh G. Jejurikar -- President and Chief Executive Officer (effective Jan 1, 2026)
+- Jon R. Moeller -- Executive Chairman of the Board
+- Andre Schulten -- Chief Financial Officer
+- Susan Street Whaley -- Chief Legal Officer and Secretary
+- Bala Purushothaman -- Chief Human Resources Officer
+- Marc S. Pritchard -- Chief Brand Officer
+- Luc Reynaert -- Chief Product Supply Officer
+- Victor Aguilar -- Chief Research, Development and Innovation Officer
+- Seth Cohen -- Chief Information Officer
+- Craig Buchholz -- Chief Communications Officer
+
+BUSINESS UNIT CEOS:
+- Freddy Bharucha -- CEO, Beauty
+- Gary Coombe -- CEO, Grooming
+- Jennifer Davis -- CEO, Health Care
+- Ma. Fatima D. Francisco -- CEO, Baby, Feminine and Family Care
+- Sundar G. Raman -- CEO, Fabric & Home Care and P&G Ventures
+
+OTHER KEY LEADERS:
+- Kristine Decker -- Chief Equality and Inclusion Officer
+- Philip J. Duncan -- Chief Design Officer
+- Virginie Helias -- Chief Sustainability Officer
+- Kirti Singh -- Chief Analytics, Insights and Media Officer
+- Mindy Sherwood -- President, North America and Chief Sales Officer
+
+UNIQUE/NON-STANDARD ROLES:
+- "Chief Brand Officer" instead of CMO (unique to P&G's brand management heritage)
+- "Chief Product Supply Officer" -- manages global supply chain/manufacturing
+- "Chief Analytics, Insights and Media Officer" -- combines data analytics with media buying
+- "Chief Design Officer" as a C-suite role
+- "Chief Sustainability Officer" as a formal C-level position
+- "Chief Equality and Inclusion Officer" as a separate DEI role
+- "Chief Sales Officer" combined with regional president role
+- Internal "CEO" titles for each product category
+
+
+================================================================================
+19. EXXONMOBIL CORPORATION
+    Industry: Energy / Oil & Gas
+    Approximate Market Cap: ~$410 Billion
+================================================================================
+
+CORPORATE OFFICERS:
+- Darren W. Woods -- Chairman and Chief Executive Officer
+- Kathryn A. Mikells -- Senior Vice President and Chief Financial Officer
+- Jeffrey A. Taylor -- Vice President, General Counsel and Secretary (effective Jul 2024, from Fox Corp.)
+
+BUSINESS UNIT PRESIDENTS (Vice Presidents of Exxon Mobil Corporation):
+- Jon M. Gibbs -- Senior President, ExxonMobil Global Operations (new role, 2026)
+- Dan L. Ammann -- President, ExxonMobil Upstream Company
+- M. R. Crocker -- President, ExxonMobil Product Solutions Company
+- Barry L. Engle -- President, ExxonMobil Low Carbon Solutions
+- Staale Gjervik -- President, ExxonMobil Global Projects Company
+- T. C. Gunnlaugsson -- President, ExxonMobil Global Trading
+- S. E. Buchanan -- President, ExxonMobil Global Business Solutions
+- M. A. Mustian -- President, ExxonMobil Supply Chain
+- M. P. Zamora -- President, ExxonMobil Technology and Engineering Company
+
+UNIQUE/NON-STANDARD ROLES:
+- "Senior President" as a new elevated title for Global Operations (Jon Gibbs)
+- Business presidents are simultaneously Vice Presidents of the parent corporation
+- No traditional CMO, CHRO, CTO, or CIO titles at the corporate officer level
+- Highly operational/matrix structure organized by business function
+- "President, Low Carbon Solutions" -- energy-transition-specific executive role
+
+
+================================================================================
+20. THE HOME DEPOT, INC.
+    Industry: Retail / Home Improvement
+    Approximate Market Cap: ~$400 Billion
+================================================================================
+
+CORPORATE OFFICERS:
+- Ted Decker -- Chair, President and Chief Executive Officer
+- Richard McPhail -- Executive Vice President and Chief Financial Officer
+- Teresa Wynn Roseborough -- EVP, General Counsel and Corporate Secretary
+- Angie Brown -- EVP and Chief Information Officer
+- Stephanie Smith -- EVP, Human Resources
+
+EXECUTIVE VICE PRESIDENTS:
+- Ann-Marie Campbell -- Senior Executive Vice President
+- Billy Bastek -- EVP, Merchandising
+- Jordan Broggi -- EVP, Customer Experience and President, Online
+- John Deaton -- EVP, Supply Chain and Product Development
+- Michael Rowe -- EVP, Pro (professional customer segment)
+
+SENIOR VICE PRESIDENTS:
+- Molly Battin -- SVP and Chief Marketing Officer
+- Fahim Siddiqui -- SVP, Technology (former CIO title)
+- Deepak Arora -- SVP, Technology
+- Kimberly R. Scardino -- SVP, Finance, Chief Accounting Officer and Controller
+
+UNIQUE/NON-STANDARD ROLES:
+- "EVP, Pro" -- dedicated executive for the professional/contractor customer segment
+- "EVP, Customer Experience and President, Online" -- combines customer experience with e-commerce
+- "Senior Executive Vice President" (Ann-Marie Campbell) as a distinct tier above regular EVPs
+- "EVP, Human Resources" rather than CHRO title
+
+
+================================================================================
+21. ABBVIE INC.
+    Industry: Healthcare / Biopharmaceuticals
+    Approximate Market Cap: ~$380 Billion
+================================================================================
+
+CORPORATE OFFICERS:
+- Robert A. Michael -- Chairman and Chief Executive Officer (CEO since 2024, Chairman since Jul 2025)
+- Scott T. Reents -- Executive Vice President and Chief Financial Officer
+- Azita Saleki-Gerhardt, Ph.D. -- EVP, Chief Operations Officer
+- Laura J. Schumacher -- Vice Chairman, External Affairs, Chief Legal Officer, General Counsel and Secretary
+- Jeffrey R. Stewart -- EVP, Chief Commercial Officer
+- Roopal Thakkar, M.D. -- EVP, Research & Development, Chief Scientific Officer
+- William J. Chase -- (additional finance executive role)
+
+UNIQUE/NON-STANDARD ROLES:
+- "Vice Chairman, External Affairs, Chief Legal Officer, General Counsel and Secretary" -- extremely broad multi-function role (Laura Schumacher)
+- "Chief Scientific Officer" combined with Head of R&D
+- "Chief Commercial Officer" as a dedicated commercial strategy role
+- CHRO position appears to be in transition after Tim Richmond's retirement
+
+
+================================================================================
+22. NETFLIX, INC.
+    Industry: Entertainment / Streaming Media
+    Approximate Market Cap: ~$370 Billion
+================================================================================
+
+CORPORATE OFFICERS:
+- Ted Sarandos -- Co-Chief Executive Officer
+- Greg Peters -- Co-Chief Executive Officer
+- Reed Hastings -- Executive Chairman
+- Spencer Neumann -- Chief Financial Officer
+- David Hyman -- Chief Legal Officer
+
+KEY EXECUTIVES:
+- Bela Bajaria -- Chief Content Officer
+- Elizabeth Stone -- Chief Product and Technology Officer
+- Sergio Ezama -- Chief Talent Officer
+- Clete Willems -- Chief Global Affairs Officer (joined April 2025)
+- Dani Dudeck -- Chief Communications Officer (named December 2025)
+
+REGIONAL:
+- Pablo Perez De Rosso -- CFO, EMEA
+
+UNIQUE/NON-STANDARD ROLES:
+- "Co-Chief Executive Officer" -- co-CEO structure (Sarandos and Peters)
+- "Chief Content Officer" -- entertainment-industry-specific C-suite role
+- "Chief Talent Officer" instead of CHRO
+- "Chief Product and Technology Officer" -- combines product and technology under one leader
+- "Chief Global Affairs Officer" -- dedicated government/policy relations role
+- "Executive Chairman" for co-founder Reed Hastings
+
+
+================================================================================
+23. SALESFORCE, INC.
+    Industry: Technology / Enterprise Software & Cloud CRM
+    Approximate Market Cap: ~$310 Billion
+================================================================================
+
+CORPORATE OFFICERS:
+- Marc Benioff -- Chair, Chief Executive Officer and Co-Founder
+- Parker Harris -- Co-Founder, Salesforce and Chief Technology Officer, Slack
+- Robin Washington -- President and Chief Operating and Financial Officer
+- Sabastian Niles -- President and Chief Legal Officer
+- Nathalie Scardino -- Chief People Officer
+
+KEY EXECUTIVES:
+- Miguel Milano -- President and Chief Revenue Officer
+- Patrick Stokes -- President and Chief Marketing Officer
+- David Schmaier -- President and Chief Strategy Officer
+- Steve Fisher -- President and Chief Product Officer
+- Srini Tallapragada -- President and Chief Engineering and Customer Success Officer
+- Suzanne DiBianca -- Executive Vice President and Chief Impact Officer
+- Kendall Collins -- CEO, Government Cloud
+
+UNIQUE/NON-STANDARD ROLES:
+- "President and Chief Operating and Financial Officer" -- COO and CFO combined in one role (Robin Washington)
+- "Chief Engineering and Customer Success Officer" -- combines engineering with customer success
+- "Chief Impact Officer" -- dedicated corporate social responsibility/impact role
+- "Chief Revenue Officer" as distinct from Chief Sales Officer
+- "Chief Strategy Officer" as a separate executive role
+- "CEO, Government Cloud" -- internal CEO for government segment
+- Multiple executives carrying both "President" and "Chief [X] Officer" dual titles
+- Co-Founder serving as CTO of acquired company (Slack) rather than parent
+
+
+================================================================================
+24. THE COCA-COLA COMPANY
+    Industry: Consumer Goods / Beverages
+    Approximate Market Cap: ~$300 Billion
+================================================================================
+
+EXECUTIVE LEADERSHIP TEAM:
+- James Quincey -- Chairman and Chief Executive Officer (becoming Executive Chairman March 31, 2026)
+- Henrique Braun -- EVP and Chief Operating Officer (becoming CEO March 31, 2026)
+- John Murphy -- President and Chief Financial Officer
+- Manuel "Manolo" Arroyo -- EVP, Chief Marketing and Customer Commercial Officer
+- Lisa Chang -- EVP and Global Chief People Officer
+- Monica Howard Douglas -- EVP and Global General Counsel
+- Beatriz Perez -- EVP, Global Chief Communications, Sustainability & Strategic Partnerships Officer
+- Nancy Quan -- EVP, Global Chief Technical & Innovation Officer
+- Sedef Salingan Sahin -- Chief Digital Officer (new position, effective March 31, 2026)
+
+OPERATING UNIT PRESIDENTS:
+- Jennifer Mann -- EVP, President of North America Operating Unit
+- Luisa Ortega -- President, Europe Operating Unit
+- Bruno Pietracci -- President, Latin America Operating Unit
+- Sanket Ray -- President, India/Southwest Asia and Emerging Large Markets Lead
+
+OTHER SENIOR OFFICERS:
+- Stacy Apter -- Treasurer
+- Derek Benz -- Chief Information Security Officer
+- Jeffrey Gilbert -- Chief Security Officer
+- Robin Halpern -- Investor Relations
+- Jennifer Henry -- Strategy and Corporate Development
+- Brenda Hofmann -- Chief of Internal Audit
+- Ellie May -- Controller
+- Jennifer Manning -- Corporate Secretary
+
+UNIQUE/NON-STANDARD ROLES:
+- "Global Chief Communications, Sustainability & Strategic Partnerships Officer" -- extremely broad combined role (Beatriz Perez)
+- "Global Chief Technical & Innovation Officer" -- combines technical/R&D with innovation
+- "Chief Marketing and Customer Commercial Officer" -- combines marketing with commercial customer relationships
+- "Chief Digital Officer" -- newly created position for digital transformation (2026)
+- "Chief Information Security Officer" and "Chief Security Officer" as separate roles
+- "Chief of Internal Audit" as a named corporate officer
+- "President and Chief Financial Officer" combined title
+
+
+================================================================================
+25. BANK OF AMERICA CORPORATION
+    Industry: Financial Services / Banking
+    Approximate Market Cap: ~$290 Billion
+================================================================================
+
+CORPORATE OFFICERS:
+- Brian T. Moynihan -- Chair of the Board and Chief Executive Officer
+- Alastair Borthwick -- Executive Vice President and Chief Financial Officer (appointed Sep 2025)
+- Lauren A. Mogensen -- Global General Counsel (since 2021)
+- Sheri B. Bronstein -- Chief People Officer (since Jan 2019)
+- Hari Gopalkrishnan -- Chief Technology and Information Officer (since Jul 2025)
+
+CO-PRESIDENTS:
+- Dean Athanasia -- Co-President, Bank of America
+- Jim DeMare -- Co-President, Bank of America
+
+UNIQUE/NON-STANDARD ROLES:
+- "Co-President" structure (Athanasia and DeMare) overseeing eight lines of business
+- "Chief Technology and Information Officer" -- combines CTO and CIO in one role
+- "Chief People Officer" instead of CHRO
+- "Global General Counsel" rather than Chief Legal Officer
+
+
+================================================================================
+CROSS-COMPANY ANALYSIS: NOTABLE PATTERNS & UNIQUE ROLES
+================================================================================
+
+COMMON C-SUITE ROLES FOUND ACROSS MOST COMPANIES:
+- CEO (25/25) -- Universal
+- CFO (25/25) -- Universal
+- General Counsel / CLO (24/25) -- Nearly universal (Berkshire created this role only in 2026)
+- CIO/CTO (20/25) -- Very common, sometimes combined
+- CHRO / Chief People Officer (20/25) -- Common, though titles vary widely
+- CMO / Chief Brand Officer (15/25) -- Common but not universal
+
+EMERGING/NON-STANDARD EXECUTIVE ROLES (2025-2026 trends):
+1. Chief AI Officer / VP of AI (Apple, Amazon, Microsoft)
+2. Chief Digital Officer (Coca-Cola -- newly created 2026)
+3. Chief Data & Analytics Officer (JPMorgan Chase)
+4. Chief Growth Officer (Walmart)
+5. Chief Impact Officer (Salesforce)
+6. Chief Sustainability Officer (P&G, Coca-Cola incorporated into broader roles)
+7. Chief Innovation Officer (UnitedHealth Group)
+8. Chief Content Officer (Netflix)
+9. Chief Talent Officer vs. Chief People Officer vs. CHRO (varying titles for same function)
+10. Chief Product Officer (Meta, Salesforce, Mastercard, Netflix)
+11. Chief Revenue Officer (Meta, Salesforce)
+12. Chief Commercial Officer (AbbVie)
+13. Chief Ethics and Compliance Officer (Eli Lilly, UnitedHealth)
+14. Internal "CEO" designations for business units (Microsoft, Amazon, JPMorgan, Walmart, P&G)
+
+COMPANIES WITH NOTABLY LEAN C-SUITES:
+- Berkshire Hathaway (minimalist structure)
+- Tesla (very few named officers)
+- NVIDIA (historically lean, now adding roles like CMO)
+- ExxonMobil (operational president structure, few "Chief" titles)
+
+COMPANIES WITH MOST EXTENSIVE C-SUITES:
+- Procter & Gamble (Chief Brand Officer, Chief Design Officer, Chief Sustainability Officer, Chief Analytics/Insights/Media Officer, etc.)
+- Coca-Cola (numerous "Global Chief" roles)
+- Salesforce (multiple President + Chief Officer dual titles)
+- JPMorgan Chase (large Operating Committee)
+
+CEO TRANSITIONS IN PROGRESS (2025-2026):
+- Berkshire Hathaway: Buffett -> Greg Abel (Jan 2026)
+- Walmart: Doug McMillon -> John Furner (Feb 2026)
+- Procter & Gamble: Jon Moeller -> Shailesh Jejurikar (Jan 2026)
+- Coca-Cola: James Quincey -> Henrique Braun (March 2026)
+- UnitedHealth Group: Leadership restructuring with Hemsley returning as Chairman/CEO
+
+================================================================================
+END OF REPORT
+================================================================================
