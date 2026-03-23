@@ -62,8 +62,8 @@ class CandorPDF(FPDF):
         self.set_x(-60)
         self._safe_cell(50, 5, "The Revealed Compass of Corporate America", align="R")
         self.set_draw_color(*LIGHT_BG)
-        self.line(self.l_margin, 12, self.w - self.r_margin, 12)
-        self.ln(8)
+        self.line(self.l_margin, 17, self.w - self.r_margin, 17)
+        self.ln(12)
 
     def footer(self):
         if self.page_no() == 1:
