@@ -259,4 +259,26 @@ See Appendix C of the [requirements document](ai_agent_requirements_v3.md) for t
 
 ---
 
+## A Question for the C-Suite
+
+These 7 agents replicate the work of an entire executive leadership team. Not a simplified version. Not a toy model. The full scope — strategy, finance, people operations, market intelligence, legal and compliance, technology, and supply chain — modeled on what the top 25 US companies by market cap actually do at the executive level.
+
+Every executive who has ever stood in front of a company meeting and said "we need to be open to any opportunity to make this company more efficient and more profitable" — this is that opportunity. These agents can analyze faster, coordinate without politics, operate 24/7, and they never need a retention package.
+
+So here's the question that deserves an honest answer: **Would you automate your own job?**
+
+If the answer is no — if the logic of automation and efficiency is something you champion for the call center, the legal review team, the marketing department, and the operations floor but not for the executive suite — then what you're really saying is that efficiency is a priority for everyone below you. That's not a business strategy. That's self-preservation dressed up as leadership.
+
+The executives who say they embrace disruption, who celebrate "doing more with less," who smile while presenting productivity gains that eliminated someone else's job — those executives should look at this system and feel something uncomfortable. Because this is what "more with less" looks like when the "less" is them.
+
+Every argument for automating any role in a company applies to the C-suite. The math doesn't stop at the executive floor. The only reason it appears to is because the people making the automation decisions have the authority to exclude themselves from the list.
+
+This system doesn't exclude anyone. That's the point.
+
+---
+
+*Also: see [The Gap](the_gap.md) — written during a live company meeting, watching an executive smile his way through a productivity presentation while the people who actually build the product wondered if they'd have jobs next quarter.*
+
+---
+
 *"It's not personal, it's business" is a sentence that has only ever been said by the person who gets to keep their job.*
